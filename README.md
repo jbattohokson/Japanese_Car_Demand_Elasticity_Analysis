@@ -6,7 +6,7 @@
 
 ## Overview
 
-An econometric analysis of **price and income elasticity** for five major Japanese automakers — Toyota, Honda, Mazda, Nissan, and Subaru — in the U.S. market from **2008 to 2025**. The project quantifies how each manufacturer's sales volume responds to macroeconomic shifts, including consumer price inflation, new car finance rates, loan amounts, and GDP growth.
+An econometric analysis of **price and income elasticity** for five major Japanese automakers: Toyota, Honda, Mazda, Nissan, and Subaru in the U.S. market from **2008 to 2025**. The project quantifies how each manufacturer's sales volume responds to macroeconomic shifts, including consumer price inflation, new car finance rates, loan amounts, and GDP growth.
 
 ---
 
@@ -54,8 +54,8 @@ Exports 8 analysis-ready CSVs to `tableau_data/` for dashboard use:
 
 ## Key Findings
 
-- **Finance rate sensitivity varies significantly by brand** — some manufacturers show high correlation between finance rate changes and sales volume, others are largely rate-insensitive
-- **GDP growth is a stronger demand driver for some brands than others** — reflected in differing income elasticity scores
+- **Finance rate sensitivity varies significantly by brand**, some manufacturers show high correlation between finance rate changes and sales volume, others are largely rate-insensitive
+- **GDP growth is a stronger demand driver for some brands than others**, reflected in differing income elasticity scores
 - **Market share is dominated by Toyota**, with Nissan and Honda as the next two largest players; Mazda and Subaru hold smaller but stable shares
 - Full quantified elasticity coefficients and manufacturer rankings are in the Tableau dashboard
 
