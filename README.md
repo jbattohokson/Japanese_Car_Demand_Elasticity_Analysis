@@ -1,4 +1,4 @@
-# 🚗 Japanese Car Demand Elasticity Analysis
+# Japanese Car Demand Elasticity Analysis
 
 > *"How sensitive are U.S. sales of Japanese automakers to changes in financing rates, loan availability, and GDP growth?"*
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-An econometric analysis of **price and income elasticity** for five major Japanese automakers — Toyota, Honda, Mazda, Nissan, and Subaru — in the U.S. market from **2008 to 2025**. The project quantifies how each manufacturer's sales volume responds to macroeconomic shifts including consumer price inflation, new car finance rates, loan amounts, and GDP growth.
+An econometric analysis of **price and income elasticity** for five major Japanese automakers — Toyota, Honda, Mazda, Nissan, and Subaru — in the U.S. market from **2008 to 2025**. The project quantifies how each manufacturer's sales volume responds to macroeconomic shifts, including consumer price inflation, new car finance rates, loan amounts, and GDP growth.
 
 ---
 
